@@ -1,0 +1,17 @@
+.env
+.htpasswd
+tls/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+node_modules/
+.next/
+dist/
+*.tsbuildinfo
+media/
+postgres_data/
+redis_data/
+huggingface_cache/
+
